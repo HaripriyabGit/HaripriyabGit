@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Haripriya B Nair
 
-<!--
-**HaripriyabGit/HaripriyabGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Full Stack Developer
 
-Here are some ideas to get you started:
+I am a Software Developer with 1+ years of experience in Python, Django, React.js, REST APIs, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Python
+- Django
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- MySQL
+- REST APIs
+- Git
+- GitHub
+
+## 🌱 Currently Learning
+
+Python Full Stack Development
+
+## 📌 Projects
+
+- Online Job Portal
+- FINSYS ERP Development
+- Zoho Books CRM Integration
+- Portfolio Website
+
+## 📫 Contact
+
+📧 Email:
+haripriyabnair120@gmail.com
+
+🔗 LinkedIn:
+linkedin.com/in/haripriya-b-nair-45703117a
